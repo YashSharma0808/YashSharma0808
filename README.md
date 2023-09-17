@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashSharma0808
+- 👋 Hi, I’m @Yash Sharma
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Python & SQL
 - 💞️ I’m looking to collaborate on Data analysis projects
